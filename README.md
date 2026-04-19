@@ -15,7 +15,7 @@ This project analyzes sales performance using Power BI.
 - Excel
 
 ## Project Screenshot
-(Upload image and paste here)
+[Dashboard] (https://github.com/Piyushmadaan20/powerbi-dashboard-project/raw/main/Titanic%20dashboard%20img.jpg)
 
 ## Author
 Piyush Madaan
